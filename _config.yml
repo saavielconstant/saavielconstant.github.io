@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "fr-FR"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "SK EDUCATION"
+title                    : "SAAV EDUCATION"
 title_separator          : "-"
 name                     : &name "Site de Physique Chimie et Mathématiques"
 description              : &description "Ressources pédagogiques en Physique-Chimie et Mathématiques.  Curriculum Français et IBO"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Concepteur pédagogique"
   location         : "Burkina Faso"
-  employer         : "SK Education"
+  employer         : "SAAV Education"
   uri              : # URL
   email            : "saaviel@gmail.com" 
 
