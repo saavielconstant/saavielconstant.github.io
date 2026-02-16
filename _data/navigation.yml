@@ -20,8 +20,11 @@ main:
   - title: "Ressources gratuites"
     url: /free-resources/
 
-  #- title: "Teaching"
-  # url: /teaching/    
+  #- title: "Teaching" # A remplacer par "Boutique"
+  # url: /teaching/ 
+  
+  - title: "Boutique"
+    url: /store/
     
   - title: "Portfolio"
     url: /portfolio/
@@ -35,5 +38,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
