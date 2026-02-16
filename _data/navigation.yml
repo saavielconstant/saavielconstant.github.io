@@ -11,11 +11,14 @@ main:
   #- title: "Publications" # Remplacé par "Acceuil"
   #  url: /publications/
 
-  - title: "Acceuil" # Remplacé par "Acceuil"
+  - title: "Accueil" # Remplacé par "Accueil"
     url: /
 
-  #- title: "Talks"
+  #- title: "Talks" # Remplacé par "Ressources gratuites"
   #  url: /talks/    
+
+  - title: "Ressources gratuites"
+    url: /free-resources/
 
   #- title: "Teaching"
   # url: /teaching/    
